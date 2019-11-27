@@ -1,0 +1,4 @@
+# http://jekyllrb.com/docs/configuration/
+exclude: []
+keep_files: []
+markdown: kramdown
